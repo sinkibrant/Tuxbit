@@ -38,7 +38,7 @@ optional arguments:
 
 ### Simple Installation
 
-Install the latest stable version [here](https://gitlab.com/-/project/59783113/uploads/d07c75520cdb85e4dbadb63a584e7527/tuxbit) and follow these steps:
+Install the latest stable version [here](https://gitlab.com/-/project/59786629/uploads/a7473a87a523fc95bb95ffc6aa23e133/tuxbit) and follow these steps:
 
 Navigate to the directory where the binary was installed and move it to /usr/local/bin/
 ```shell
